@@ -12,7 +12,7 @@
 1. Install actual python version [Python 3.8](https://www.python.org/downloads/) or from [Microsoft Store](https://www.microsoft.com/de-de/p/python-38/9mssztt1n39l).
 2. Install needed modules for python
 - Open a powershell window
-- [Discord.py](https://pypi.org/project/discord/)
+- [Discord.py](https://pypi.org/project/discord.py/)
   - `pip install discord`
 - [urllib3](https://pypi.org/project/urllib3/)
   - `pip install urllib3`
