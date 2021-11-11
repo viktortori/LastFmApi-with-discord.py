@@ -1,4 +1,4 @@
-![LastPy](https://cdn.discordapp.com/attachments/902597633003098112/908453877525905458/New_Project_-_2021-11-11T213108.930.png)
+![LastPy](https://cdn.discordapp.com/attachments/902597633003098112/908455346975150130/New_Project_-_2021-11-11T213645.673.png)
 # LastFmApi with discord.py
 
 - Tested in Python 3.8.3
