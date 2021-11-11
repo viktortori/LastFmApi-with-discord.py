@@ -21,7 +21,7 @@
 
 ## Bugs
 - Script throws some exceptions, but I catched them all (I hope)
--> If you find bugs, you can report me these in my stream or here on github.
+-> If you find bugs, you can report me these here on github.
 
 ## Links
 - [Website](https://tori.website)
